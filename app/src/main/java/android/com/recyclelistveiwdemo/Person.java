@@ -1,4 +1,4 @@
-package codetutor.com.recyclelistveiwdemo;
+package android.com.recyclelistveiwdemo;
 
 public class Person {
 

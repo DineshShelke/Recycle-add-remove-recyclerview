@@ -1,4 +1,4 @@
-package codetutor.com.recyclelistveiwdemo;
+package android.com.recyclelistveiwdemo;
 
 import android.support.annotation.IdRes;
 import android.support.v7.app.AppCompatActivity;

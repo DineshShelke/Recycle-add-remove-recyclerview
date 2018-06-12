@@ -1,4 +1,4 @@
-package codetutor.com.recyclelistveiwdemo;
+package android.com.recyclelistveiwdemo;
 
 import android.content.Context;
 
